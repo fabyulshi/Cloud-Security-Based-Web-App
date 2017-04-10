@@ -1,0 +1,22 @@
+virtualization is software that separates physical infrastructures to create various dedicated resources. It is the fundamental technology that powers cloud computing. 
+
+1.upload time
+2.download time
+3.user delete the file
+4.for get back user send the request to vendor
+5.vendor send the file in link type..
+
+https://www.cs.purdue.edu/homes/bb/mobile-cloud-survey.pdf
+
+http://www.ijcttjournal.org/Volume4/issue-7/IJCTT-V4I7P120.pdf
+
+
+Existing System:-
+
+DisAdver:-
+1.maintaining large amount of user in cloud
+2.
+gaddam.vanigupta@gmail.com,
+kapilkumar2010143@gmail.com,
+vinodaerwa@gmail.com,
+swathikunjur@gmail.com

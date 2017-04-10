@@ -1,0 +1,109 @@
+<%@ page contentType="text/html; charset=utf-8" language="java" import="java.sql.*" errorPage="" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Deduplication</title>
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="screen" />
+<link type="text/css" rel="stylesheet" href="css/dropdown.css" />
+<script src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/jquery.min.js" ></script>
+</head>
+<body>
+<div id="wrapper">
+	<div id="header-wrapper" class="container">
+		<div id="header" class="container">
+			
+				<h1 style="padding:10px;padding-top:15px;padding-left:40px;line-height:40px;color:#FFFFFF;">A Hybrid Cloud Approach for Secure Authorized
+
+                 <br />
+                <font style="margin-left:220px;"> Deduplication </font></h1>
+			
+		</div>
+		<div><img src="images/img03.png" width="1000" height="40" alt="" /></div>
+	</div>
+	<!-- end #header -->
+
+    
+    	<div id="banner">
+		
+        
+              <ul class="nav nav-pills" style="float:right;margin-top:-25px;">
+              	 <li><a href="#" style="font-size:18px;margin-left:10px;margin-right:10px;" >
+                 											Welcome <font color="#FF33FF">&nbsp;&nbsp;&nbsp;Admin</font></a></li>
+                 <li class="active"><a href="adminhome.jsp" style="font-size:18px;margin-left:10px;margin-right:10px;">Home</a></li>
+                 <li><a href="index.html" style="font-size:18px;margin-left:10px;margin-right:10px;" >Sign Out</a></li>
+              </ul>
+        
+       
+		
+	</div>
+    	
+
+	<div id="page" style="margin-top:25px;">
+		<div id="content">
+			
+				<h3 class="title"><u>Admin Home</u></h3>
+				
+				<div style="clear: both;">&nbsp;</div>
+               
+          <div style="width:100%;margin-top:80px;">
+                   <img src="images/animated_arrow_11.gif" width="57" height="35" align="left" />         
+                   <h3 class="title"><a href="viewuserdetails.jsp" style="font-size:24px;color:#6600FF;text-transform:none;">
+                   			<b><font color="#FF33FF">User Details</font></b></a></h3>
+                   <img src="images/users.jpg" width="78" height="78" style="float:right; margin-top:-50px;margin-right:90px;"/>
+       			 </div>
+                 
+                 
+                 
+                 
+                 <div style="width:100%;margin-top:100px;">
+                   <img src="images/animated_arrow_11.gif" width="57" height="35" align="left" />         
+                   <h3 class="title"><a href="dublicaterequest.jsp" style="font-size:24px;color:#6600FF;text-transform:none;">
+                   		<b><font color="#FF33FF">Dublicate Request</font></b></a></h3>
+                   <img src="images/View_Image_Icon.png" width="78" height="78" style="float:right; margin-top:-50px;margin-right:80px;"/>
+       			 </div>
+				 
+				 
+				 
+				
+				 <div style="width:100%;margin-top:100px;">
+                   <img src="images/animated_arrow_11.gif" width="57" height="35" align="left" />         
+                   <h3 class="title"><a href="cloudfile1.jsp" style="font-size:24px;color:#6600FF;text-transform:none;">
+                   		<b><font color="#FF33FF">Cloud Files</font></b></a></h3>
+                   <img src="images/View_Image_Icon.png" width="78" height="78" style="float:right; margin-top:-50px;margin-right:80px;"/>
+       			 </div>
+				 
+				 
+				  <div style="width:100%;margin-top:100px;">
+                   <img src="images/animated_arrow_11.gif" width="57" height="35" align="left" />         
+                   <h3 class="title"><a href="keyrequest.jsp" style="font-size:24px;color:#6600FF;text-transform:none;">
+                   		<b><font color="#FF33FF">KeyRequest For Files</font></b></a></h3>
+                   <img src="images/View_Image_Icon.png" width="78" height="78" style="float:right; margin-top:-50px;margin-right:80px;"/>
+       			 </div>
+				 
+				 
+			
+			<div style="clear: both;">&nbsp;</div>
+		</div>
+		<!-- end #content -->
+		<div id="sidebar" style="width:300px;">
+			<img src="images/dddd.jpg" width="300" height="368" style="margin-top:5px;"  />
+		</div>
+		<!-- end #sidebar -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	<div class="container"><img src="images/img03.png" width="1000" height="40" alt="" /></div>
+	<!-- end #page --> 
+</div>
+<div id="footer-content"></div>
+<div id="footer">
+	<p> </p>
+</div>
+<!-- end #footer -->
+</body>
+</html>

@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Deduplication</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="screen" />
+<link type="text/css" rel="stylesheet" href="css/dropdown.css" />
+<script src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/jquery.min.js" ></script>
+
+
+<script type="text/javascript">
+
+function valid(){
+	var a = document.form.uname.value;
+	var b = document.form.fname.value;
+	var c = document.form.pass.value;
+	var d = document.form.mobile.value;
+	
+	if(a==""){
+		alert("Enter Your User-Id");
+		document.form.uname.focus();
+		return false;
+	}
+	
+		if(c==""){
+		alert("Enter Your Password");
+		document.form.pass.focus();
+		return false;
+	}
+	
+	if(b==""){
+		alert("Enter Your Name");
+		document.form.fname.focus();
+		return false;
+	}
+
+	var x=document.forms["form"]["email"].value;
+	var atpos=x.indexOf("@");
+	var dotpos=x.lastIndexOf(".");
+	if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length)
+	  {
+	  alert("Please provide a valid email id");
+	  document.form.email.focus();
+	  return false;
+	  }
+
+	if(d==""){
+		alert("Enter Date of birth");
+		document.form.mobile.focus();
+		return false;
+	}
+
+}
+</script>
+
+<script>
+
+function login()
+{
+	
+ 	var un=document.loginform.uname.value;
+	
+	
+
+
+
+}
+</script>
+
+
+</head>
+<body>
+<div id="wrapper">
+	<div id="header-wrapper" class="container">
+		<div id="header" class="container">
+			
+				<h1 style="padding:10px;padding-top:15px;padding-left:40px;line-height:40px;color:#FFFFFF;">A Hybrid Cloud Approach for Secure Authorized
+
+                 <br />
+                <font style="margin-left:220px;"> Deduplication </font></h1>
+			
+		</div>
+		<div><img src="images/img03.png" width="1000" height="40" alt="" /></div>
+	</div>
+	<!-- end #header -->
+	<div id="banner">
+	
+	
+	
+    
+		<div class="content"><img src="images/111.jpg" width="430" height="334" alt="" style="margin:10px;"  />
+        
+               <span style="float:right">
+                 <form name="loginform" method="post" action="loginchk.jsp" onsubmit="return login();" style="float:right;margin-top:20px;margin-right:100px;">
+                    <span style="font-size:24px;color:#F03;font-weight:bold;margin-left:30px;" >User Sign In</span><br /><br /><br />
+                    <label>UserName</label>
+                    <input type="text" name="uname" class="span4" /><br />
+                    <label>Password</label>
+                    <input type="password" name="pass" class="span4"  /><br /><br />
+                    <button type="submit" class="btn btn-success" style="width:125px;">Login</button>
+                    <button type="reset" class="btn btn-danger" style="width:125px;">Clear</button>
+                    
+                    <br /><br /><br />
+                     <span style="font-size:16px;color:#F30;font-weight:bold;margin-left:100px;" >
+                     	<a href="userregister.jsp" style="font-size:16px;color:#F30;font-weight:bold;">Click Here for Register</a></span>
+                </form>
+              </span>
+      </div>
+		
+	</div>
+    
+	<div class="container"><img src="images/img03.png" width="1000" height="40" alt="" /></div>
+</div>
+
+
+
+
+
+<div id="footer-content"></div>
+<div id="footer">
+	<p> </p>
+</div>
+<!-- end #footer -->
+</body>
+</html>

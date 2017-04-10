@@ -1,0 +1,205 @@
+A
+Abstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+p
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systemspaper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systemspaper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systemspaper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systemspaper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+aper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance aAbstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance abstract—The increasing popularity of Cloud computing as an
+attractive alternative to classic information processing systems
+has increased the importance of its correct and continuous
+operation even in the presence of faulty components. In this
+paper, we introduce an innovative, system-level, modular perspective on creating and managing fault tolerance in Clouds.
+We propose a comprehensive high-level approach to shading
+the implementation details of the fault tolerance techniques to
+application developers and users by means of a dedicated service
+layer. In particular, the service layer allows the user to specify and
+apply the desired level of fault tolerance, and does not require
+knowledge about the fault tolerance techniques that are available
+in the envisioned Cloud and their implementations.
+Index Terms—Cloud computing, fault tolerance a
